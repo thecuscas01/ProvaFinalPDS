@@ -14,7 +14,7 @@ Cada aluno fica responsável por criar um capítulo de uma apostila técnica onl
 ----------------------
 
 # Título
-# Nome do Docente
+# Nome do Discente
 
 ## Introdução
 
