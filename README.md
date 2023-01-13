@@ -22,11 +22,11 @@ Aqui deve ser desenvolvida uma introdução sobre do que se trata o capítulo. P
 
 ## Definições
 
-Como o nome já diz, aqui deve ser definido o assunto, sempre de acordo com algum texto de referência. Neste ponto, deve-se usar subitens para exemplificar tipos ou formas, quando existirem. Por exemplo, no Projeto de Software existem diversas arquiteturas que podem ser utilizadas (cliente-servidor, microserviços, etc). 
+Como o nome já diz, aqui deve ser definido o assunto, sempre de acordo com algum texto de referência. Neste ponto, deve-se usar subitens para exemplificar tipos ou formas, quando existirem. Por exemplo, no Projeto de Software existem diversas arquiteturas que podem ser utilizadas (cliente-servidor, microserviços, etc). Faça a ultilização de imagens e/ou tabelas para facilitar o entendimento do leitor.
 
 # Caso de Uso
 
-Neste item deve ser apresentado exemplos de aplicação daquilo que está sendo abordado. Por exemplo, nos requisitos, deve ser inserido algo como um modelo de relatório que é usado para fazer o levantamento desses requisitos, da mesma forma como foi realizado no projeto final da disciplina.
+Neste item deve ser apresentado exemplos de aplicação daquilo que está sendo abordado. Por exemplo, nos requisitos, deve ser inserido algo como um modelo de relatório que é usado para fazer o levantamento desses requisitos, da mesma forma como foi realizado no projeto final da disciplina. Faça a ultilização de imagens e/ou tabelas para facilitar o entendimento do leitor.
 
 # Conclusão
 
