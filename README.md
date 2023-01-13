@@ -39,7 +39,7 @@ Apresentar as referências utilizadas.
 ------------------------
 
 Depois de finalizado, enviar para esse mesmo repositório o arquivo desenvolvido. 
-Data Final: 18/01/2023
+Data Final: 16/01/2023
 
 Qualquer dúvidas entrar em contato comigo.
 andouglas.silva@escolar.ifrn.edu.br
