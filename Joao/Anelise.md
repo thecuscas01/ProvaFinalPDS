@@ -20,5 +20,7 @@ A análise de projetos é essencial para empresas e gerentes de projetos tornare
 
 # Referência
 
-https://www.smarttask.io/blog/project-analysis
 https://www.geektonight.com/project-analysis
+https://www.smarttask.io/blog/project-analysis
+
+
