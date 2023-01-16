@@ -23,6 +23,8 @@ Quando os programadores alteram o código, seja removendo bugs ou adicionando fu
 
 ![WhatsApp Image 2023-01-14 at 5 54 49 PM](https://user-images.githubusercontent.com/106175282/212675773-c06f16cb-94ac-4b6f-b12e-78d47208379e.jpeg)
 
+![WhatsApp Image 2023-01-14 at 5 54 50 PM](https://user-images.githubusercontent.com/106175282/212676469-e6149864-a877-4f00-bc6d-4446f331d0bb.jpeg)
+
 # Conclusão
 
 Neste projeto foi mostrado alguns pontos principais de teste de software, de forma concisa, onde foram abordados os principais processos de uso teste, e forma de como será aplicada em uso em alguns casos. Foi mostrando também a importância de se testar um software. Devido à variedade de critérios de teste existentes, não é fácil decidir qual deles deve ser usado ou como usá-los de forma complementar para obter melhores resultados, por um tempo, o teste de software foi considerado uma atividade a ser realizada apenas durante a implementação do software e, portanto, a maioria das pesquisas nessa área se concentrou em estabelecer técnicas, critérios e ferramentas para validação de programas. O teste de software visa garantir a qualidade, minimizar as incertezas e sistematizar os critérios de aceitação. Ajuda a verificar se: as expectativas de todas as pessoas envolvidas são atendidas, além disso, o teste também permite verificações complexas que um humano não poderia fazer. Com um bom teste de software de qualidade, impede que haja falhas ou bugs, tendo assim uma boa confiabilidade e funcionalidade.
