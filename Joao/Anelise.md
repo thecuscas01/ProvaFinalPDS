@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Ao executar seu projeto, você precisa revisá-lo periodicamente, se isso não for feito, consequentemente o programador enfrentará desafios inesperados, falhas no processo de trabalho que se tornarão aparentes à medida que o projeto se desenvolve. É por isso que qualquer projeto a ser programado precisa de análises de projeto para lidar com isso e avaliar os resultados e a rentabilidade após a conclusão do trabalho.
+Ao executar seu projeto, você precisa revisá-lo periodicamente, se isso não for feito, consequentemente o programador enfrentará desafios inesperados, falhas no processo de trabalho que se tornarão aparentes à medida que o projeto se desenvolve. É por isso que qualquer projeto a ser programado precisa de análises de projeto para lidar com isso e avaliar os resultados e a rentabilidade após a conclusão do trabalho, proporcionando alinhamento de expectativas e possibilidades. Ao mesmo tempo que facilita a localizar mudanças necessárias no progama.
 
 ## Definições
 
@@ -26,5 +26,6 @@ A análise de projetos é essencial para empresas e gerentes de projetos tornare
 
 https://www.geektonight.com/project-analysis
 https://www.smarttask.io/blog/project-analysis
+https://www.monitoratec.com.br/blog/analise-de-requisitos-de-software-quais-os-desafios-e-como-fazer/
 
 
