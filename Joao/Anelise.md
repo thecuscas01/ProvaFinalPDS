@@ -9,7 +9,9 @@ Ao executar seu projeto, você precisa revisá-lo periodicamente, se isso não f
 
 Um estudo realizado mostrou que mais de dois terços dos projetos não são concluídos no prazo, qual é a diferença entre dois terços dos projetos que fracassam e um terço dos projetos que terminam sendo bem sucedidos? A análise de projeto permite que você veja os problemas atuais e se prepare para problemas futuros, evitando-os. Isso garante uma execução suave do projeto e a entrega pontual do projeto. Para uma análise de projeto eficiente, é igualmente importante ter as ferramentas certas que podem ajudá-lo a monitorar e analisar projetos desde o início até a conclusão.
 
+
 ![Tipos-de-projeto](https://user-images.githubusercontent.com/106175232/212678103-34dacfb3-b27c-499d-9659-a20cb64e4b6c.png)
+
 
 # Caso de Uso
 
